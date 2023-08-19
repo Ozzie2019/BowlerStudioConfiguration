@@ -11,17 +11,17 @@
     "https://github.com/Ozzie2019/helloWorld_Ozzie2019.git": [
       "https://github.com/Ozzie2019/helloWorld_Ozzie2019.git",
       "1692466513789"
+    ],
+    "https://github.com/Ozzie2019/ChamferedParts_Ozzie2019.git": [
+      "https://github.com/Ozzie2019/ChamferedParts_Ozzie2019.git",
+      "1692466882624"
     ]
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/Ozzie2019/helloWorld_Ozzie2019.git:helloWorld.groovy": [
-      "https://github.com/Ozzie2019/helloWorld_Ozzie2019.git",
-      "helloWorld.groovy"
-    ],
-    "https://github.com/Ozzie2019/cube_Ozzie2019.git:cube.groovy": [
-      "https://github.com/Ozzie2019/cube_Ozzie2019.git",
-      "cube.groovy"
+    "https://github.com/Ozzie2019/ChamferedParts_Ozzie2019.git:ChamferedParts.groovy": [
+      "https://github.com/Ozzie2019/ChamferedParts_Ozzie2019.git",
+      "ChamferedParts.groovy"
     ]
   }
 }
