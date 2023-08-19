@@ -1,9 +1,15 @@
 {
+  "workspace": {
+    "https://github.com/Ozzie2019/helloWorld_Ozzie2019.git": [
+      "https://github.com/Ozzie2019/helloWorld_Ozzie2019.git",
+      "1692466513789"
+    ]
+  },
   "studio-open-web": {},
-  "BowlerStudioConfigs": {
-    "fontsize": 12.0,
-    "skinBranch": "0.25.2",
-    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "notifiedArduinoDep": true
+  "studio-open-git": {
+    "https://github.com/Ozzie2019/helloWorld_Ozzie2019.git:helloWorld.groovy": [
+      "https://github.com/Ozzie2019/helloWorld_Ozzie2019.git",
+      "helloWorld.groovy"
+    ]
   }
 }
