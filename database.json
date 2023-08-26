@@ -18,13 +18,9 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/Ozzie2019/roundedcube_Ozzie2019.git:roundedcube.groovy": [
-      "https://github.com/Ozzie2019/roundedcube_Ozzie2019.git",
-      "roundedcube.groovy"
-    ],
-    "none:C:\\Users\\jaico\\Downloads\\flathead-main.zip": [
-      "none",
-      "C:\\Users\\jaico\\Downloads\\flathead-main.zip"
+    "https://github.com/Ozzie2019/flathead.git:flathead.groovy": [
+      "https://github.com/Ozzie2019/flathead.git",
+      "flathead.groovy"
     ]
   },
   "BowlerStudioConfigs": {
