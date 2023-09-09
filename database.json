@@ -18,10 +18,6 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/Ozzie2019/flathead.git:flathead.groovy": [
-      "https://github.com/Ozzie2019/flathead.git",
-      "flathead.groovy"
-    ],
     "https://github.com/Ozzie2019/flathead.git:Ramp Car.groovy": [
       "https://github.com/Ozzie2019/flathead.git",
       "Ramp Car.groovy"
