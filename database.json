@@ -29,10 +29,6 @@
     "https://github.com/Ozzie2019/BowlingBallStand.git:BowlingBallStand.groovy": [
       "https://github.com/Ozzie2019/BowlingBallStand.git",
       "BowlingBallStand.groovy"
-    ],
-    "https://github.com/Ozzie2019/Ring.git:Ring.groovy": [
-      "https://github.com/Ozzie2019/Ring.git",
-      "Ring.groovy"
     ]
   },
   "BowlerStudioConfigs": {
