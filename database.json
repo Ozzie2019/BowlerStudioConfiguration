@@ -25,12 +25,7 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {
-    "https://github.com/Ozzie2019/BowlingBallStand.git:BowlingBallStand.groovy": [
-      "https://github.com/Ozzie2019/BowlingBallStand.git",
-      "BowlingBallStand.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
